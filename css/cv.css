@@ -35,3 +35,10 @@ body { padding-top: 50px; }
     content: '';
     display: block;
 }
+
+/****************************************
+*     Langues
+****************************************/
+#langues .container {display: flex; flex-direction: row; justify-content: space-between;}
+#langues .langue,#langues .niveau{ font-size: 1.3em; }
+#langues .langue {padding-top: 3px; }
