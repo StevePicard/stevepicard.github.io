@@ -1,2 +1,2 @@
 # stevepicard.github.io
-Portfolio de Steve PICARD, étudiant en BTS SIO
+Portfolio de d'Amélia PILOU, étudiante en BTS SIO
